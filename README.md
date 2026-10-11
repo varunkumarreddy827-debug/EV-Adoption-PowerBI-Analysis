@@ -29,16 +29,10 @@ The Power BI dashboard is available in this repository as a PBIX file.
 
 ## Conclusion
 This project demonstrates the use of Power BI to transform data into interactive visual reports for exploring electric vehicle market trends.
-## 📸 Dashboard Screenshots
+![Regional & Category Trends](./screenshots/EV-Regional-Category-Trends.png)
 
-### 1. Regional & Category Trends
-![Regional & Category Trends](EV-Regional-Category-Trends.png)
+![Powertrain & Mode Analysis](./screenshots/EV-Powertrain-Mode-Analysis.png)
 
-### 2. Powertrain & Mode Analysis
-![Powertrain & Mode Analysis](EV-Powertrain-Mode-Analysis.png)
+![Parameter & Electricity Demand Analysis](./screenshots/EV-Parameter-Electricity-Demand-Analysis.png)
 
-### 3. Parameter & Electricity Demand Analysis
-![Parameter & Electricity Demand Analysis](EV-Parameter-Electricity-Demand-Analysis.png)
-
-### 4. Time Series & Comparative Analysis
-![Time Series & Comparative Analysis](EV-Time-Series-Comparative-Analysis.png)
+![Time Series & Comparative Analysis](./screenshots/EV-Time-Series-Comparative-Analysis.png)
